@@ -15,6 +15,8 @@ function mickesplugin_page() {
 	echo "<p>We hope that you enjoy your experience. Hello github test 09:14</p>";
 	echo "<p>Changed something in the Plugin.. Let's see if it works.</p>";
 	echo "<p>Change 2.</p>";echo "<p>Change 3.</p>";
+	
+	echo "<p>GITLAB TEST.</p>";
 }
 
 function mickesplugin_admin_menu() {
